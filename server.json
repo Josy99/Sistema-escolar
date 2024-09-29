@@ -1,0 +1,22 @@
+{
+  "dataBase": [
+    {
+      "nome": "José Gomes Francisco",
+      "idade": 25,
+      "classe": "9  Classe ",
+      "sala": "8",
+      "encarregado": "Francisco Panzo",
+      "id": "5ad9"
+    }
+  ],
+  "adminUser": [
+    {
+      "nome": "José Gomes Francisco",
+      "idade": 27,
+      "classe": "9  Classe ",
+      "sala": "7",
+      "encarregado": "José Gomes",
+      "id": "1"
+    }
+  ]
+}
